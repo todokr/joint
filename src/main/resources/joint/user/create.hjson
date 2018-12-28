@@ -1,0 +1,16 @@
+// POST user/create
+{
+  "name": "todokr",
+  "age": 27,
+  "favorite": [
+    "beer",
+    "rice"
+  ],
+  "email": "example@gmail.com" // option
+}
+
+// response
+{
+  "result": "created",
+  "message": "User is created!"
+}
